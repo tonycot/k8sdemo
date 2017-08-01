@@ -1,9 +1,8 @@
 [master]
-k8s-master.your-domain
+master.kub
 
 [node]
-k8s-node-01.your-domain
-k8s-node-02.your-domain
+slave.kub
 
 [datastore:children]
 master
