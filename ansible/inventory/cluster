@@ -3,6 +3,7 @@ master.kub
 
 [node]
 slave.kub
+lapslave.kub
 
 [datastore:children]
 master
